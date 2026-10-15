@@ -1,4 +1,4 @@
-# Multi-Scale-Attention-CNN-for-Brain-Tumor-Classification-
+
 # Brain Tumor Classification using Multi-Scale Attention CNN
 
 A deep learning model that classifies brain MRI images into four
